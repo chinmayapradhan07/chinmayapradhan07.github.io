@@ -1,1 +1,2 @@
-This portfolio is not coplited.
+This portfolio is not completed.
+yaa it's working
